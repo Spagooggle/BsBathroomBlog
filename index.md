@@ -12,7 +12,7 @@ layout: default
   </p>
 
   <p style="color: #555; margin-top: 1rem;">
-    Entries focus on what a good bathroom experience should be. Plus some of my day;s rambelings
+    Entries focus on what a good bathroom experience should be. Plus some of my day's rambelings
   </p>
 
 </div>
@@ -33,4 +33,5 @@ layout: default
   </ul>
 
 </div>
+
 
