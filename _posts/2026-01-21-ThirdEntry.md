@@ -1,5 +1,5 @@
 ---
-layout:post
+layout: post
 title: Breeze-Way Entry-003
 date: 2026-01-21 15:37:00 -0500
 ---
