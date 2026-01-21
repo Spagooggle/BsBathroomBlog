@@ -1,3 +1,10 @@
+---
+layout: post
+title: "Second Entry"
+date: 2026-01-20 20:20:00 -0500
+---
+
+
 1/20/26
 
 ENGINEERING EAST EE96 1st floor bathroom
